@@ -6,3 +6,4 @@ factory: 工厂模式
 decorator: 装饰模式
 proxy: 代理模式
 adapter: 适配器模式
+template: 模板模式
